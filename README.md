@@ -1,2 +1,2 @@
 # Pan Gu
-springcloud的生态示例
+学习路上的demo
